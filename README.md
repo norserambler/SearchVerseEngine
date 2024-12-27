@@ -3,7 +3,7 @@ SearchVerse - Java-Based Search Engine
 A Java-based search engine that utilizes a web crawler and indexer to store web pages in a database. The web crawler employs a depth-first limited search to crawl web pages efficiently.
 
 Features
-- Web crawler using depth-first limited search
+- Web crawler using depth-first limited search : https://github.com/norserambler/WebCrawlerWithUI
 - Indexer to store crawled pages in a database
 - Simple ranking algorithm: ranks webpages based on keyword occurrences
 - Customizable crawl depth and user agent
