@@ -8,6 +8,7 @@ Features
 - Simple ranking algorithm: ranks webpages based on keyword occurrences
 - Customizable crawl depth and user agent
 - Handling of common crawl errors (e.g., 404, 500)
+  
 System Requirements
 - Java 11+
 - MySQL or PostgreSQL database
